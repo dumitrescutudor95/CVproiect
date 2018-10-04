@@ -1,0 +1,197 @@
+html{text-align:center;
+  overflow:scroll;
+ 
+   background-image: url("http://idolza.com/a/l/w/white-textures-design-trends-wood-texture_interior-wall-textures_designer-interior-design-home-floor-plans-best-houses-in-the-world-of-architect-designed-homes-intrior-house-_1080x621.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+margin:0px.auto;}
+
+
+  .border2{
+  border:0px,solid,white;
+  margin-left:-10px;
+ padding-left:180px;
+  margin-top:-35px;
+  padding-bottom:5px;
+  background-color:gray;
+}
+
+	
+.align{border:1px,solid,white;
+  margin:auto;
+  text-align:center;
+  max-width:170px;
+}
+.h1{
+  font-size:50px;
+   font-style: italic;
+}
+.box{
+  border:2px,solid,black;
+  border-radius:5px;
+ color:black;
+height:200px;
+  background-image:url("https://media.istockphoto.com/photos/silver-glittering-background-picture-id490024652");
+  width:400px;
+  max-width:400px;
+  min-width:100px;
+  margin :auto;
+  margin-top:-150px;
+font-size:20px;
+  font-weight:bold;
+  overflow:scroll;
+ 
+}
+.image{position:relative;
+  top:-100px;}
+.button{
+  background-color: whitef;
+ top:-190px;
+  height:30px;
+  font-size:20px;
+  color:red;
+  font-style:italic;
+  width:130px;
+  position:relative;
+  left:10px;
+}
+.p{position:relative;
+right:310px;
+  top:12px;
+  font-weight:bold;
+  font-size:20px;
+  
+}
+.left{
+  border:0px,solid,white;
+  padding-top:0px;padding-right:20px;
+  width:25%;
+  max-width:16%;
+ float:left;
+  height:100%;
+  text-align:center;
+  background-color:white;
+  position:fixed;
+  top:0px;
+  z-index:3;
+  bottom:0px;
+ overflow:scroll;
+ 
+}
+.middle{border:1px,solid,white;
+  margin:auto;
+  float:middle;
+  text-align:center;
+  width:68%;
+}
+.right{
+  border:1px,solid,white;
+  position:fixed;
+  overflow:scroll;
+ height:100%
+  font-size:13px;
+  z-index:2;
+  background-color:white;
+ right:0px;
+  margin-top:-333px;
+  width:16%;
+  
+  height:100%;
+  padding-top:5px;
+}
+.margin{
+  border:1,solid,white;
+  margin-left:170;
+  margin-right:150;
+}
+.table{
+  border:3px,solid,black;
+  text-align:center;
+float:center;
+  font-size:15px;
+  margin-right:16%;
+  margin-left:16%; 
+  max-width:100%;
+  margin:auto;
+}
+.head{
+  border:3px,solid,black;
+  background-image:url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg");
+    color:white;
+  font-size:25px;
+}
+.row{
+  background-image:url("https://www.xtrafondos.com/wallpapers/resoluciones/14/textura-reciclado-arrugado-azul_1366x768_64.jpg");
+  border:3px,solid,white;
+  color:white;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+
+
+
+
+.main_container {
+  height: 46px;
+  width: auto;
+  padding: 3px;
+  margin: 2px;
+  max-width: 300px;
+  background-color: #555555;
+  align-content: center;
+}
+.container_inner {
+  height: auto;
+  border: none;
+  background-color: #555555;
+  max-width: 290px;
+  vertical-align: center;
+  padding-top: 12px;
+  padding-left: 10px;
+  align-content: center;
+}
+ .num_tiles {
+  width:30px;
+  height: 30px;
+  background-color: #888888;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  line-height: 20px;
+  padding: 3px;
+  margin: 1.5px;
+  font-family: verdana;
+  vertical-align: center;
+}
+#container{
+  text-align:center;
+ border:1px,solid,red;
+  margin:auto;
+  width:100%px;
+  height:30px;
+  background-image:url("https://image.freepik.com/free-vector/elegant-red-geometric-background_1055-3131.jpg");
+   overflow:hidden;
+  position:relative;
+  top:-200px;
+}
+#box{
+  width:100px;
+  height:30px;
+  background-image:url("http://ak7.picdn.net/shutterstock/videos/16666147/thumb/1.jpg");
+ color:red;
+  font-style:solid;
+  
+  text-align:center;
+  font-size:15px;
+  position:absolute;
+}
+
+	.butonSlide{
+		position:relative;
+		border:1px,solid,red;
+		height:50px;
+		top:-70px;
+	}
+	
