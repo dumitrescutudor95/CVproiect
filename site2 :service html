@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<link href="./9service.css" type="text/css" rel="stylesheet"/>
+
+<head>
+  <header class="header"> <a href="./change.html" class="headerClass"> Despre noi</a>
+  <a href="#contact" class="headerClass">Contact</a>
+  <a href="./cariera.html" class="headerClass">Cariere</a>
+  
+   <a href="https://www.bb-shop.ro/?utm_source=bbcollection.ro&utm_campaign=Shop_Online&utm_medium=referral&utm_content=Header" class="headerClassShop"> Shop online</a>
+      <img src="https://www.bbcollection.ro/lib/templates/new/img_new/bb-shop_bag_hp.png" class="headerClassShop"/>
+</header>
+</head>
+<body>
+
+<center><img src="https://www.bbcollection.ro/lib/templates/new/img_new/logo-bbcollection.jpg" class="imgTitle"/></center>
+
+  <div class="reparatii">
+    <h1 class="h1header"><a href="#service" style="color:gray;text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ArrowRight-gray.svg/1024px-ArrowRight-gray.svg.png" class="pictograma"/> Service</a> <br/><br/>
+     
+     
+       <a href="#contact" style="color:gray;text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ArrowRight-gray.svg/1024px-ArrowRight-gray.svg.png" class="pictograma"/> Contact</a><br/><br/>
+    
+    <a href="#personal" style="color:gray;text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ArrowRight-gray.svg/1024px-ArrowRight-gray.svg.png" class="pictograma"/> Personal</a> <br/><br/></h1>
+    <p class="h1header2">&copy;Dumitrescu Tudor Andrei</p>
+  </div> <div id="descriere">
+  <h3>  Unitatea de Service a Produsului (USP) este autorizata de furnizorii internationali sa efectueze constatari tehnice si lucrari de remediere la ceasurile importate direct de catre B&B Collection SRL. <br/><br/>In cazul in care va veti prezenta la USP pentru serviciul de constatare in vederea oricaror remedieri necesare, va trebui sa achitati contravaloarea acestui serviciu. Daca veti opta pentru trimiterea ceasului catre USP prin intermediul oricarui magazin de desfacere a produsului din reteaua B&B Collection, va trebui sa achitati suplimentar si cheltuielile de transport aferente.</h3></div>
+  <center>
+  <img src="https://www.bbcollection.ro/lib/templates/new/img_new/service_watches/img-ceasuri.jpg" id="imagineceas"/><br/><br/>
+    <h2>SERVICII OFERITE</h2>
+<p style="width:500px;color:gray">Ceasornicarii experimentati, dotarea ultramoderna si acccesul direct la piese originale sunt elemente ce garanteaza calitatea urmatoarelor servicii oferite:</p>
+   </center>
+ 
+  <div id="service">
+ 
+   <div class="service1">
+    <img src="https://nikolamotor.com/assets/motor/onetwonew/nikola_service_logo-50ad630a150172a69a763669db46f8026fee75f7149bca520f597529a3c481c1.png" style="height:200px;width:300px;float:left"/>
+    <h1 class="h1service">Inlocuiri</h1>
+   
+    </div>
+    
+      <table class="table1">
+       <tr>
+         <th>Inlocuire</th><th>Pret</th></tr>
+       <tr>
+         <td>Inlocuire geam prin presare / lipire</td><td>30 Lei</td></tr>
+        <tr class="tr">
+         <td>Inlocuire telescop</td><td>15 Lei</td></tr>
+        <tr>
+         <td>Inlocuire curea/bratara</td><td>30 Lei</td></tr>
+        <tr class="tr">
+         <td>Scurt curea/bratara</td><td>30 Lei</td></tr>
+        <tr> 
+         <td>Inlocuire carcasa / mecanism /cadran /minutare -pentru mecanism</td><td>50 Lei</td></tr>
+        <tr class="tr">
+         <td>InlocuireInlocuire remontoar / ax remontoar / butoane / tub carcasa</td><td>50 Lei</td></tr>
+        <tr>
+         <td>Inlocuire bezel ring</td><td>30 Lei</td></tr>
+        <tr class="tr">
+         <td>Inlocuire piese ansamblu calendar</td><td>50 Lei</td></tr>
+        <tr>
+         <td>Inlocuire piese ansamblu automat</td><td>60 Lei</td></tr>
+       </table>
+     <p>~ Costul pieselor noi este suportat de clienti</p>
+ 
+    
+     <div class="service1">
+    <img src="https://nikolamotor.com/assets/motor/onetwonew/nikola_service_logo-50ad630a150172a69a763669db46f8026fee75f7149bca520f597529a3c481c1.png" style="height:200px;width:300px;float:left"/>
+    <h1 class="h1service">Montaj</h1>
+    </div>
+    
+      <table class="table1">
+       <tr>
+         <th>Montare</th><th>Pret</th></tr>
+       <tr>
+         <td>Montare baterie ceas quartz</td><td>25 Lei</td></tr>
+        <tr class="tr">
+         <td>Montare capacitor ceas Eco-Drive(solar)</td><td>25 Lei</td></tr>
+        <tr>
+         <td>Montare ceas kinetic</td><td>30 Lei</td></tr>
+    </table>
+    
+    
+     <div class="service1">
+    <img src="https://nikolamotor.com/assets/motor/onetwonew/nikola_service_logo-50ad630a150172a69a763669db46f8026fee75f7149bca520f597529a3c481c1.png" style="height:200px;width:300px;float:left"/>
+    <h1 class="h1service">Teste si verificari</h1>
+    </div>
+    
+     <table class="table1">
+       <tr>
+         <th>Teste si verificari</th><th>Pret</th></tr>
+       <tr>
+         <td>Test acuratete-verificare / reglare / test imprimat</td><td>50 Lei</td></tr>
+        <tr class="tr">
+         <td>Test etanseitate-verificare / test imprimat</td><td>50 Lei</td></tr>
+        <tr>
+         <td>Reglare ora-resetare / potrivire-mecanism</td><td>40 Lei</td></tr>
+        <tr class="tr">
+         <td>Verificare mecanism</td><td>70 Lei</td></tr>
+        </table>
+    
+     <div class="service1">
+    <img src="https://nikolamotor.com/assets/motor/onetwonew/nikola_service_logo-50ad630a150172a69a763669db46f8026fee75f7149bca520f597529a3c481c1.png" style="height:200px;width:300px;float:left"/>
+    <h1 class="h1service">Revizii generale</h1>
+    </div>
+  </div>
+  
+   <table class="table1">
+       <tr>
+         <th>Revizii generale</th><th>Pret</th></tr>
+       <tr>
+         <td>Ceas mecanic</td><td>30 Lei</td></tr>
+        <tr class="tr">
+         <td>Ceas automatic</td><td>40 Lei</td></tr>
+        <tr>
+         <td>Ceas quartz analog</td><td>30 Lei</td></tr>
+        <tr class="tr">
+         <td>Ceas quartz digital</td><td>30 Lei</td></tr>
+        <tr> 
+             <td>Ceas Eco-Driver(solar)</td><td>40 Lei</td></tr>
+        <tr class="tr">
+         <td>Ceas quartz analog</td><td>40 Lei</td></tr>
+        <tr>
+         <td>Ceas Kinetic</td><td>40 Lei</td></tr>
+     
+  </table>
+  <br/><br/><br/>
+   <div id="contact">
+    <center><h2><img src="http://www.sjscreative.com/images/nav/footer/phone.svg" style="height:20px;width:30px;"/>  <strong> CONTACT </strong> <img src="http://www.sjscreative.com/images/nav/footer/phone.svg" style="height:20px;width:30px;"/></h2>
+     <p style="color:gray">In functie de marca ceasului dumneavoastra, va rugam sa contactati USP la una din urmatoarele adrese:</p></center>
+     
+  </div><br/>
+  <div class="unirea">
+  <h3>Service Ceasuri Unirea</h3>
+  <p><strong>Adresa:</strong> Bucuresti, sector 3, Piata Unirii nr.1</p>
+  <p><strong>Program:</strong></p>
+  <pre>Luni - Vineri  10:00 - 21:00
+
+Sambata        12:00 - 20:00
+
+Duminica       inchis</pre>
+  <p>Accesoriile pot fi ridicate de luni pana vineri,<br/> intre orele<strong> 10:00 - 18:00</strong></p>
+  <p><img src="http://images.clipartpanda.com/cell-phone-call-icon-Cell_phone.png" style="height:20px;width:20px;position:relative;top:4px;"/> 0727.227.608 (L-V 10:00 - 18:30)</p>
+    <p><img src="http://tabiben.net/wp-content/uploads/2017/11/mail.png" style="height:20px;width:20px;position:relative;top:4px;"/> contact@serviceunirea.ro</p>
+  </div>
+  <img src="https://www.bbcollection.ro/lib/templates/new/img_new/service_watches/img-service-ceasuri-unirea-nou.jpg" class="imgunirea"/>
+  <br/><br/><br/> <br/> <br/><br/>
+  
+    <div class="unirea">
+  <h3>Service Ceasuri Dorobanti</h3>
+  <p><strong>Adresa:</strong> Bucuresti, sector 1, str Calea Dorobantilor nr. 134</p>
+  <p><strong>Program:</strong></p>
+  <pre>Luni - Vineri  10:00 - 20:00
+
+Sambata        10:00 - 18:00
+
+Duminica       inchis</pre>
+  <p>Accesoriile pot fi ridicate de luni pana vineri,<br/> intre orele<strong> 10:00 - 18:00</strong></p>
+  <p><img src="http://images.clipartpanda.com/cell-phone-call-icon-Cell_phone.png" style="height:20px;width:20px;position:relative;top:4px;"/> 0733.683.673</p>
+    <p><img src="http://tabiben.net/wp-content/uploads/2017/11/mail.png" style="height:20px;width:20px;position:relative;top:4px;"/>  contact@servicedorobanti.ro</p>
+  </div>
+  <img src="https://www.bbcollection.ro/lib/templates/new/img_new/service_watches/img-service-ceasuri-dorobanti.jpg" class="imgunirea"/><br/><br/><br/>
+  
+   <div id="personal">
+     <center><h1><img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/><img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/><img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/> C E A S <img src="https://www.ikea.com/PIAimages/0540839_PE653259_S5.JPG" style="height:25px;width:25px;"/> R N I C A R I <img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/><img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/><img src="https://cdn.shopify.com/s/files/1/0644/9885/products/FS4835_main_fossilResponsive_pdpdetail_c87dc80d-b78f-462a-8099-7560ee5b8731.jpeg?v=1519504834" style="height:20px;width:20px;"/></h1></center>
+     <img src="https://metamarkets.com/wp-content/uploads/2017/06/Programmatic-OOH-620x350.png" style="width:100%;height:300px;"/>
+  </div>
+  
+  <center><div class="Ceasornicari">
+ 
+    <div class="card" style="float:left">
+  <img src="https://i.imgur.com/Oh5iYtf.pngg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Dumitrescu Tudor Andrei</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 2 ani<br/>Specializare: Quartz,Mecanic,Bratari,<br/>Curele,Polish<br/><br/>
+	<a href="./cv.html">CV</a></p> 
+    </div></div>
+    
+   <div class="card">
+  <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&h=350" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Odobeanu Adrian</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 1 an<br/>Specializare: Quartz,Automatic,Schimb baterii,Verificari</p> 
+     </div></div> 
+     <div class="card" style="float:right;position:relative;top:-500px;">
+  <img src="https://www.howtogeek.com/wp-content/uploads/2016/11/xfreddie.jpg.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.X9S8A5J_bd.jpgg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Andreescu Marian</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 5 ani<br/>Specializare: Automatic,Mecanic,Polish</p> 
+     </div></div> 
+  </div></center>
+  <br/><br/><br/><br/>
+   <center><div class="Ceasornicari">
+ 
+    <div class="card" style="float:left">
+  <img src="https://media.timeout.com/images/105148243/630/472/image.jpg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Chitacu Sorin Mihai</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 3 ani<br/>Specializare: Quartz,Mecanic,Bratari,<br/>Carcase,Polish</p> 
+    </div></div>
+    
+   <div class="card">
+  <img src="http://glefotka.com/wp-content/uploads/2017/12/zagreb-corporate-photographer-professional-business-photography-linkedin-studio-ch-aviation-2.jpg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Parvu Daniela</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 2 an<br/>Specializare: Automatic,Schimb baterii,Verificari</p> 
+     </div></div> 
+     <div class="card" style="float:right;position:relative;top:-500px;">
+  <img src="http://static1.businessinsider.com/image/59badf4a38d20d21008b63e3/jacob-shamsian.jpg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Musat Ovidiu</b></h4> 
+    <p>Ceasornicar-Unirii<br/>Experienta: 4 ani<br/>Specializare: Automatic,Mecanic,Polish</p> 
+     </div></div> 
+  </div></center>
+   <br/><br/><br/><br/>
+   <center><div class="Ceasornicari">
+ 
+    <div class="card" style="float:left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_aN_sYA10x6uEF7IGVQhLkDbdDvQuTaw0b80_06XqlLg7fJts" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Chitacu Andrei Gabriel</b></h4> 
+    <p>Ceasornicar-Dorobanti<br/>Experienta: 1 an<br/>Specializare: Quartz,Mecanic,Bratari,<br/>Carcase,Polish</p> 
+    </div></div>
+    
+   <div class="card">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScT-mbL1XkmREF3pN41D5AQtU3IiJkpsPy24IcKfcYXMC-x2Rs" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Spataru Dan</b></h4> 
+    <p>Ceasornicar-Dorobanti<br/>Experienta: 2 an<br/>Specializare: Automatic,Schimb baterii,Verificari</p> 
+     </div></div> 
+     <div class="card" style="float:right;position:relative;top:-500px;">
+  <img src="https://lincolnschatz.com/wp-content/uploads/2017/06/Lincoln-Schatz-About.jpg" alt="Avatar" style="width:100%;;height:300px;">
+  <div class="container">
+    <h4><b>Badea Stefan</b></h4> 
+    <p>Ceasornicar-Dorobanti<br/>Experienta: 4 ani<br/>Specializare: Automatic,Mecanic,Polish</p> 
+     </div></div> 
+  </div></center><br/><br/><br/>
+ <center> <h3 style="color:gray;position:relative;right:-200px;">Pentru informatii suplimentare ne puteti contacta prin telefon sau e-mail.</h3></center>
+<br/><br/><br/>
+ <center><p style="color:gray;position:relative;top:200px;left:200px;">Doresti sa te alaturi echipei? Click <a href="./cariera.html">aici</a></p></center>
+</body>
