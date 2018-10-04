@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+  <link href="./main.css" type="text/css" rel="stylesheet">
+  <script src="./bla.js"></script>
+  <head>
+<div class="image">
+  <img src="https://www.vivo-shopping.com/images/module/4891.jpg" width="400px" /></div>
+    
+  </head>
+  <body> 
+    
+      <div class="left">
+     
+      <img src="https://winmarkt.ro/en/wp-content/uploads/2016/04/bnb-collection-1.jpg" style="height:70px;max-width:100%"/>
+          <img src="http://www.ecproducts.com/images/ecomm/products/listing/E8837R.jpg" style="max-width:100%"/>
+       <br /> 
+      <a href="#branduri" style="color:red">Branduri</a> <br /> 
+          <img src="http://www.ecproducts.com/images/ecomm/products/listing/E8837R.jpg" style="max-width:100%"/> <br />
+       <a href="#magazine" style="color:red">Magazine Bucuresti</a> <br /> 
+          <img src="http://www.ecproducts.com/images/ecomm/products/listing/E8837R.jpg" style="max-width:100%"/> <br />
+       <a href="./9service.html"  style="color:red">Service</a> <br /> 
+          <img src="http://www.ecproducts.com/images/ecomm/products/listing/E8837R.jpg" style="max-width:100%"/> <br /> 
+       <a href="https://www.bb-shop.ro/?utm_source=bbcollection.ro&utm_campaign=Shop_Online&utm_medium=referral&utm_content=Header" target="blank" style="color:red"><img src="https://www.bbcollection.ro/lib/templates/new/img_new/bb-shop_bag_hp.png"/>    Shop Online</a> <br />
+          <img src="http://www.ecproducts.com/images/ecomm/products/listing/E8837R.jpg" style="max-width:100%"/>
+       
+        <h3>Contact:</h3>
+        <p style="font-size:13px">Nr:0721269010<br />E-mail:<br/>dumitrescu.tudor95<br/>@gmail.com</p>
+       <a href="https://www.facebook.com/MagazineleBBCollection/" target="blank"><img src="https://images.contentful.com/r1mvpfown1y6/42WaH2745GSmiwCmWWyIQo/a594a7f3a5a50d5d7035c18549bd8985/FB-f-Logo__blue_50.png"/></a>
+        
+      
+        <a href="https://www.instagram.com/bbcollection.ro/" target="blank"><img src="http://carnavalsolsona.com/wp-content/uploads/2018/02/insta-2.jpg" style="length:20px;width:40px;/></a><br />
+        <img src="http://groomandstyle.com/wp-content/uploads/2016/08/Patek-Philippe-Co.-5078R-001-282x300.png" height="125" width="100"/>
+        <p>&copy; Dumitrescu Tudor </p>
+    </div>
+  
+  <div class="right">
+    <p style="text-align:center;color:red;font-style:bold;font-size:15px;">Avantajele de care se bucura clientii nostrii</p>
+    <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/original_o.jpg" align="left"/>
+  <span><strong>100%</strong><br /> Original</span>
+  <br />
+    <img src="http://stillwaterflyshop.com/site/product_images/echo-boost-beach-fly-rod.MAIN.00.jpg?resizeid=3&resizeh=150&resizew=150" style="max-width:100%"/>
+    <br />
+    <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/peset-15-ani-exeprienta_o.jpg" align="left"/> 
+    <p ><strong>DISTRIBUITOR</strong><br /> Autorizat</p>
+      <img src="http://stillwaterflyshop.com/site/product_images/echo-boost-beach-fly-rod.MAIN.00.jpg?resizeid=3&resizeh=150&resizew=150g" style="max-width:100%"/>
+    <br />
+    
+     <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/distribuitor-autorizat_o.jpg" align="left"/> 
+      <span><strong>PESTE 19 ANI</strong><br />Experienta</span><br />
+    <br />  <img src="http://stillwaterflyshop.com/site/product_images/echo-boost-beach-fly-rod.MAIN.00.jpg?resizeid=3&resizeh=150&resizew=150" style="max-width:100%"/><br />
+    <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/service-autorizat_o.jpg" align="left"/> 
+      <span><strong>SERVICE</strong><br /> Autorizat</span><br /><br />  <img src="http://stillwaterflyshop.com/site/product_images/echo-boost-beach-fly-rod.MAIN.00.jpg?resizeid=3&resizeh=150&resizew=150"/><br />
+    
+    <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/retea-mag_o.jpg" style="float:left"/> 
+      <span><strong>RETELE</strong><br />Magazine</span><br /><br />  <img src="http://stillwaterflyshop.com/site/product_images/echo-boost-beach-fly-rod.MAIN.00.jpg?resizeid=3&resizeh=150&resizew=150" style="max-width:100%"/><br />
+    
+    <img src="https://www.bbcollection.ro/lib/templates/new/img_new/avantaje_comerciale/bbshop_o.jpg" align="left"/>
+    <span><strong>SHOP</strong><br />Online</span><br />
+    
+    <img src="https://cdn.shopify.com/s/files/1/1313/4325/products/Women-Fashion-Luxury-Statement-Colorful-Flower-Necklace-Gem-Clain-Luxury-Drop-Brand-Necklace-B334_65303496-2db9-435a-a43b-d326fa2aee50_large.jpg?v=14803972071" height="150" width="150" style="max-width:100%"/>
+   
+    </div>
+   
+  <div class="middle">
+   <div id="container">
+      <div id="box"><p style="position:relative;bottom:5px;">Bine ati venit</p></div>
+    </div>
+ <script>
+     window.onload = function() {
+     let pos = 900; 
+    let box = document.getElementById('box');
+    let t = setInterval(move, 10);
+
+    function move() {
+        if(pos <-300) {
+           pos=900;  }
+        else {
+            pos -= 1;
+            box.style.left = pos+'px'; 
+        } } };     </script>
+   
+  <button onclick="myFunction()" class="button" >Despre Noi</button>  
+     
+  <button onclick="myFunction2()" class="button"> Misiune </button>
+  <button onclick="myFunction3()" class="button"> Valori </button>
+   
+    <div class="box">
+  <p id="demo">  </p>
+    
+    </div>
+    
+    <div id="branduri">
+        <br/>  <br/>  <br/>
+      <h1 class="h1"><img src="https://www.simongjewelry.com/wp-content/uploads/2015/10/MR2658-Simon-G.-white-gold-and-diamond-engagement-ring.png" height="50" width="50px"/>Branduri Bijuterii<img src="https://www.simongjewelry.com/wp-content/uploads/2015/10/MR2658-Simon-G.-white-gold-and-diamond-engagement-ring.png" height="50" width="50px"/></h1>
+      <img src="https://i1.wp.com/luluandlattes.com/wp-content/uploads/2015/07/d5.jpg?fit=700%2C484" style="max-width:100%;height:auto" /> <br /><br /><br />
+ </div>  
+ <div class="slideshow">
+    
+	 <button class="butonSlide" onclick="prev()">Prev</button>
+  <img id="slider" src="https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16669/800_bij_16669.jpg" width="150px" height="150px"/>
+  <button class="butonSlide" onclick="next()">Next</button>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Regular_polygon_2_vertex_animation.svg/500px-Regular_polygon_2_vertex_animation.svg.png" height="150px"/>
+   <button class="butonSlide" onclick="prev2()">Prev</button>
+ 
+ <img id="slider2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0xM-yeNAiAqFy8nmS3KR65LYZjxrMJ1R54VZu593qTfRjawL" width="150px" height="150px"/>
+  <button class="butonSlide" onclick="next2()">Next</button>
+ 
+ <br /><br /> 
+  
+   <button class="butonSlide" onclick="prev3()">Prev</button>
+  <img id="slider3" src="https://images-na.ssl-images-amazon.com/images/I/41oq8uXNnGL._UY395_.jpg" width="150px" height="150px"/>
+  <button class="butonSlide" onclick="next3()">Next</button>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Regular_polygon_2_vertex_animation.svg/500px-Regular_polygon_2_vertex_animation.svg.png" height="150px"/>
+ 
+  <button class="butonSlide" onclick="prev4()">Prev</button>
+  <img id="slider4" src="https://cdn.shopify.com/s/files/1/1569/7621/products/LongWay-2017-Elastic-Bracelets-Bangles-Gold-Plated-Charm-Bracelets-For-Women-Cute-Owl-Crystal-Jewelry-SBR150162.jpg?v=1500306975" width="150px" height="150px"/>
+  <button class="butonSlide" onclick="next4()">Next</button>
+ <script>  //3 cercei
+	
+	
+    let images3=["https://www.brighton.com/photos/product/giant/369560S186247/-/size-os.jpg",
+                "https://www.thinkgeek.com/images/products/zoom/ipvt_uncle_als_earring_cuff_n_stud.jpg",
+                "http://demandware.edgesuite.net/sits_pod48/dw/image/v2/BBPD_PRD/on/demandware.static/-/Sites-ll-master-catalog/default/dw2eedc22f/images/Links-of-London_Timeless_Earring_5040.2552_1.jpg?sw=2000&sh=2000&sm=fit",
+                "https://cdn.shopify.com/s/files/1/0352/7357/products/Lady_Grey_Silhouette_Earrings_Silver_grande.jpg?v=1486681639",
+                "https://media.blingjewelry.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/i/silver-earring-dangle-hand.jpg",
+                "https://cdn.shopify.com/s/files/1/1368/1799/products/PEG3-52_1024x1024.jpg?v=1478751439",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqht9gMXOGZg0enGQictAH4YH7tRXV_LdzLLsGuzlj9wcHHClz",
+                "https://cdn.shopify.com/s/files/1/1314/9009/products/snake_gold_earrings_with_sapphire_eyes_1024x1024.jpg?v=1506335085",
+                "https://images-na.ssl-images-amazon.com/images/I/71WUQRc7sWL._UY575_.jpg",
+                "data:image/jpeg;base64,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",
+                "https://images-na.ssl-images-amazon.com/images/I/61evHJd3XEL._UY395_.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/41oq8uXNnGL._UY395_.jpg"
+                
+]
+    let num3=0;
+      function next3(){
+        let slider3=document.getElementById("slider3");
+        num3++;
+        if(num3>=images3.length){num3=0;}
+        slider3.src=images3[num3];
+      }
+      function prev3(){
+        let slider3=document.getElementById("slider3");
+        num3--;
+        if(num3<0){num3=images3.length;}
+        slider3.src=images3[num3];
+        
+      }
+    </script>
+    <script> //1 inele
+	
+	
+    let images=["https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16669/800_bij_16669.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16648/800_bij_16648.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/27/26868/800_bij_26868.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16657/800_bij_16657.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/25/24485/800_bij_24485.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16675/800_bij_16675.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/7/6495/800_bij_6495.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/35/34690/800_bij_34690.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/24/23778/800_bij_23778.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/32/31433/800_bij_31433.jpg",
+                "https://www.bbcollection.ro/_files/galerie_foto/bijuteri/17/16669/800_bij_16669.jpg"
+                
+]
+    let num=0;
+      function next(){
+        let slider=document.getElementById("slider");
+        num++;
+        if(num>=images.length){num=0;}
+        slider.src=images[num];
+      }
+      function prev(){
+        let slider=document.getElementById("slider");
+        num--;
+        if(num<0){num=images.length;}
+        slider.src=images[num];
+        
+      }
+    </script>
+	<script> //2 coliere
+    let images2=["https://cdn.shopify.com/s/files/1/2259/5473/products/sn-yg-web_grande.jpg?v=1514411958",
+                "http://demandware.edgesuite.net/sits_pod54-pod55/dw/image/v2/AAOK_PRD/on/demandware.static/-/Sites-dogeared-erp-master/default/dw344dc518/images/zoom/KG1001_alt1.jpg",
+                "https://securethbaker.r.worldssl.net/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/1/5/15-55-110.jpg",
+                "https://cdn.shopify.com/s/files/1/0553/6741/products/WWAKE_Web_Exclusive_Necklace_Black_Diamond_2.jpg?v=1447263390",
+                "http://zaza-lili.com/wp-content/uploads/2016/10/N-Flimsy-G.jpg",
+                "https://www.catbirdnyc.com/media/catalog/product/t/e/teardrop_2.jpg",
+                "https://www.catbirdnyc.com/media/catalog/product/g/s/gs-necklace-p1.jpg",
+                "https://www.maria-pascual.com/wp-content/uploads/2017/10/WORLD-NECKLACE.jpg",
+                "http://d34qiagx43sg99.cloudfront.net/8956227-1490",
+                "https://cdn.shopify.com/s/files/1/1319/9109/products/145178-moon-and-star-charm-necklace-gold-kw320pn9y-gold-side_grande.jpg?v=1501420664",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0xM-yeNAiAqFy8nmS3KR65LYZjxrMJ1R54VZu593qTfRjawL"
+                
+]
+    let num2=0;
+      function next2(){
+        let slider2=document.getElementById("slider2");
+        num2++;
+        if(num2>=images2.length){num2=0;}
+        slider2.src=images2[num2];
+      }
+      function prev2(){
+        let slider2=document.getElementById("slider2");
+        num2--;
+        if(num2<0){num2=images2.length;}
+        slider2.src=images2[num2];
+        
+      }
+    </script>
+	<script> //4 bratari
+    let images4=["https://images-na.ssl-images-amazon.com/images/I/41rucJUlsqL._UY395_.jpg",
+                "https://assets.anniehaakdesigns.co.uk/media/catalog/product/a/n/annie_haak_santi_star_silver_charm_bracelet__160_2.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/41rucJUlsqL._UY395_.jpg",
+                "https://assets.anniehaakdesigns.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/santi_mga_silver_charm_bracelet_1.jpg",
+                "https://assets.anniehaakdesigns.co.uk/media/catalog/product/a/n/annie_haak_alluring_bracelet_stack__545.jpg",
+                "https://www.berrysjewellers.co.uk/images/gucci-interlocking-g-unisex-silver-bracelet-p2872-2733_image.jpg",
+                "https://cdn.shopify.com/s/files/1/1569/7621/products/3Pcs-Lot-Ethnic-Love-Heart-Charm-Bracelets-For-Women-Gold-plated-Crystal-Chain-Bracelets-Bangles-With.jpg?v=1510945059",
+                "http://cdn.shopify.com/s/files/1/1331/1103/products/product-image-48092479_grande.jpg?v=1472673461",
+                "https://cdn.shopify.com/s/files/1/1569/7621/products/LongWay-2017-Elastic-Bracelets-Bangles-Gold-Plated-Charm-Bracelets-For-Women-Cute-Owl-Crystal-Jewelry-SBR150162.jpg?v=1500306975",
+                "https://cdn.shopify.com/s/files/1/1569/7621/products/DSC_4780-5.jpg?v=1513912080",
+                "https://cdn.shopify.com/s/files/1/1569/7621/products/v-Butterfly__1927849358.jpg?v=1499367738"
+                
+]
+    let num4=0;
+      function next4(){
+        let slider4=document.getElementById("slider4");
+        num4++;
+        if(num4>=images4.length){num4=0;}
+        slider4.src=images4[num4];
+      }
+      function prev4(){
+        let slider4=document.getElementById("slider4");
+        num4--;
+        if(num4<0){num4=images4.length;}
+        slider4.src=images4[num4];
+        }
+    </script>
+	</div>
+	<br />
+
+	 <a href="https://www.bbcollection.ro/Bijuterii-Brand-DIESEL-300.html" target="blank"><img src="https://trendyshades.ro/images/stories/virtuemart/manufacturer/resized/ochelari-de-soare-disel_300x300.jpg" width="200" height="100"/></a>
+      
+	  
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-EMPORIO_ARMANI-157.html" target="blank"> <img src="http://mallsmexico.com/imagenes/2015/08/2774_Emporio-Armani.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+   <a href="https://www.bbcollection.ro/Bijuterii-Brand-FOSSIL-79.html" target="blank"><img src="http://banburysdepartmentstore.co.uk/wp-content/uploads/2016/08/fossil-logo.jpg" width="200" height="100"/></a>
+      
+       <a href="https://www.bbcollection.ro/Bijuterii-Brand-GUESS-318.html" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2B_2vfdjfY9NTSpUVEMIGsjKi-F494EH-LOVEGTlpi51P5Jw" width="200" height="100"/></a>
+      <br/><br/>
+     
+      
+       <a href="https://www.bbcollection.ro/Bijuterii-Brand-NOMINATION-681.html" target="blank"><img src="http://laba.biz/wp-content/uploads/2015/02/LOGO_NOMINATION_RGB.jpg" width="200" height="100"/></a>
+      
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-LES_GEORGETTES-654.html" target="blank"> <img src="https://www.gift-ology.com/media/wysiwyg/Les_Georgettes_logo_10x21.jpg" width="200" height="100"/></a>
+      <br/><br/>
+     
+      
+       <a href="https://www.bbcollection.ro/Bijuterii-Brand-MAJORICA-75.html" target="blank"> <img src="http://g-ec2.images-amazon.com/images/G/01/jewelry/watches/photos/majorica-logo._V391009820_.jpg" width="200" height="100"/></a>
+      
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-MICHAEL_KORS-538.html" target="blank"> <img src="http://www.promokodas.lt/wp-content/uploads/2018/02/mk.jpeg" width="200" height="100"/></a>
+      <br/><br/>
+      
+      
+       <a href="https://www.bbcollection.ro/Bijuterii-Brand-OLIVER_WEBER-416.html" target="blank"> <img src="http://www.avalonparkjewelers.com/images/oliver_weber-slider1.jpg" width="200" height="100"/></a>
+      
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-POLICE-225.html" target="blank"> <img src="http://logo-load.com/uploads/posts/2016-08/police-logo.jpg" width="200" height="100"/></a>
+      <br/><br/>
+      
+      
+       <a href="https://www.bbcollection.ro/Bijuterii-Brand-SWAROVSKI-506.html" target="blank"> <img src="https://d337mqk8vr3mvq.cloudfront.net/uploads/media/logo_retailer/0001/19/thumb_18875_logo_retailer_1x.png" width="200" height="100"/></a>
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-SECTOR-123.html" target="blank"> <img src="https://www.mastersintime.com/images/all-brand-logos-large/sector.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+      
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-TOMMY_HILFIGER-585.html" target="blank">  <img src="https://i.pinimg.com/originals/20/52/b6/2052b6a4fb8a2f4663a832996d3c2f18.jpg" width="200" height="100"/></a>
+      <a href="https://www.bbcollection.ro/Bijuterii-Brand-THOMAS_SABO-599.html" target="blank"> <img src="http://www.galerieslafayette.com/magasin-dijon/files/2017/06/logo-thomas-sabo1.png" width="200" height="100"/></a>
+      <br/><br/><br/>
+      
+      <h1 class="h1"><img src="https://d31lqvyoeoymzk.cloudfront.net/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/0/1/01-lugano-40mm-gold-black-black-larsson-and-jennings-watch-766x1000_2.png" height="50" width="50"/>Branduri ceasuri<img src="https://d31lqvyoeoymzk.cloudfront.net/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/0/1/01-lugano-40mm-gold-black-black-larsson-and-jennings-watch-766x1000_2.png" height="50" width="50"/></h1>
+       <img src="http://static1.fashionbeans.com/wp-content/uploads/2017/10/luxwatches-top-9.jpg" width="500" height="260" /> <br /><br /><br />
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-ATLANTIC-3.html" target="blank">  <img src="https://www.atlantic-watches.ch/media/unknown/83/d0/de/logo.svg" width="200" height="100"/></a>
+     <a href="https://www.bbcollection.ro/Ceasuri-Brand-CASIO-2.html" target="blank">  <img src="http://www.logosvectorfree.com/wp-content/uploads/2017/12/Casio-Logo-transparent-1024x205.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-CERTINA-10.html" target="blank">  <img src="http://logonoid.com/images/certina-logo.png" width="200" height="100"/></a>
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-DOXA-19.html" target="blank"> <img src="http://www.vinnaiekszer.hu/images/doxa.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-ESPRIT-109.html" target="blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Esprit_Logo_neu.svg/2000px-Esprit_Logo_neu.svg.png" width="200" height="100"/></a>
+     <a href="https://www.bbcollection.ro/Ceasuri-Brand-FESTINA-20.html" target="blank">  <img src="https://cdn.worldvectorlogo.com/logos/festina.svg" width="200" height="100"/></a>
+      <br/><br/>
+      
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-FOSSIL-53.html" target="blank">  <img src="https://www.fossilgroup.com/wp-content/uploads/2016/05/FG-2016only-Fossil.png" width="200" height="100"/></a>
+     <a href="https://www.bbcollection.ro/Ceasuri-Brand-LORUS-302.html" target="blank">  <img src="https://www.haritidis.gr/media/catalog/category/lorus-rologia-haritidis.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-ORIENT-16.html" target="blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Orient_Watch_Logo_220px.png" width="200" height="100"/></a>
+     <a href="https://www.bbcollection.ro/Ceasuri-Brand-POLICE-224.html" target="blank">  <img src="http://www.otticamalinverno.com/images/brand/POLICE.png" width="200" height="100"/></a>
+      <br/><br/>
+      
+      <a href="https://www.bbcollection.ro/Ceasuri-Brand-Q_Q-227.html" target="blank">  <img src="http://logo-load.com/uploads/posts/2016-03/1457621224_q-and-q-logo.png" width="200" height="100"/></a>
+    <a href="https://www.bbcollection.ro/Ceasuri-Brand-SEIKO-18.html" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Seiko_logo.svg/2000px-Seiko_logo.svg.png" width="200" height="100"/></a>
+      <br/><br/>
+       </div>
+	    <br/><br/>
+    <h1 class="h1" id="magazine">Magazine Bucuresti</h1>
+    <table class="table">
+      <thead class="head">
+        <th>Magazin</th>
+        <th>Centru comercial</th>
+        <th>Adresa</th>
+        <th>Telefon</th>
+        <th>Program</th>
+      </thead>
+      <tr class="row">
+        <td>Be in time</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Str. Vasile Milea, Nr.4, Sector 6</td>
+        <td>0731.600.873</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>Swarovski</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Str. Vasile Milea, Nr. 4, Sector 6</td>
+        <td>0732.015.394</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>Splend'or</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Bd. Vasile Milea, Nr.4, Sector 6</td>
+        <td>0727.738.977</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>B&B Collection</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Bd. Vasile Milea, Nr.4, Sector 6</td>
+        <td>0733.884.703</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>Fossil Store</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Bd. Vasile Milea, Nr.4, Sector 6</td>
+        <td>0727.227.622</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>Kultho</td>
+        <td>Afi Palace Cotroceni</td>
+        <td>Str. Vasile Milea, Nr. 4, Sector 6</td>
+        <td>0729.038.017</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>KENDRA </td>
+        <td>Afi Palace Cotroceni </td>
+        <td>Bd. Vasile Milea, Nr.4, Cotroceni Park,<br/> Sector 6, Bucuresti</td>
+        <td>0732.019.103</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr>
+      <tr class="row">
+        <td>B&B Collection</td>
+        <td>Auchan Titan</td>
+        <td>Bd. 1 Decembrie 1918, Nr.33A, Sector 3</td>
+        <td>0731.600.891</td>
+        <td>L-J 10:00-22:00,<br/> V-S 10:00-23:00,<br/> D 10:00-22:00</td>
+      </tr class="row">
+   <tr class="row">
+        <td>Kultho</td>
+        <td>Calea Victoriei</td>
+        <td>Str. Calea Victoriei, Nr. 60-64, Sector 1</td>
+        <td>0724.334.363</td>
+        <td>L-V 10:30-19:30,<br/> S 10:30-15:00,<br/> D Inchis</td>
+      </tr>
+      <tr class="row">
+        <td>Splend'or</td>
+        <td>Carrefour Orhideea</td>
+        <td>Splaiul Independentei, Nr. 210-210B, Sector 6</td>
+        <td>0725.962.336</td>
+        <td>L-V 08:30-21:30,<br/> S 08:30-21:30,<br/> D 08:30-21:30</td>
+      </tr>
+     </table>
+   
+ </body>
+
+</html>
