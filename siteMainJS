@@ -1,0 +1,19 @@
+function myFunction() {
+    var x ="B&B Collection este importator oficial si distribuitor autorizat in piata romaneasca a peste 100 de marci internationale de ceasuri si bijuterii. In prezent, compania ofera clientilor produse certificate original prin intermediul magazinelor din intreaga tara. Patru concepte de magazine specializate in vanzarea asistata a ceasurilor si bijuteriilor (KULTHO, Splend'or, Be in time si B&B Collection) isi asteapta pasionatii de orologerie si bijuterii de lux.B&B Collection este, de asemenea, unul dintre cei mai importanti jucatori pe piata retail-ului din domeniul produselor de parfumerie si ingrijire. Specialistii nostri in frumusete intampina clientii in magazinele KENDRA beauty cosmetics si KENDRA make up din intreaga tara, cu sfaturi profesioniste despre ingrijire si machiaj.";
+        document.getElementById("demo").innerHTML=x;
+ 
+  
+};
+  function myFunction2() {
+    var x = "B&B Collection ofera produse de marca, valoare si calitate recunoscute pe plan international, care se regasesc in cele mai recente colectii prezentate la principalele targuri si expozitii internationale de profil.Viziunea este de a pastra calitatea de lider in piata importului si distributiei de ceasuri si bijuterii."
+        
+    document.getElementById("demo").innerHTML=x;
+    x.style.color = "green";
+   
+};
+  function myFunction3() {
+    var x ="Urmand o perfectionare continua, echipa B&B Collection isi indeplineste misiunea identificandu-se cu valorile companiei:Atitudine orientata catre client. Succesul dobandit odata cu experienta acumulata ca participant activ pe pietele interne si internationale este confirmat de gradul de satisfacere profesionala a clientilor si partenerilor nostri. Construim relatii de afaceri bazate pe respect, profesionalism si excelenta.<br/>Calitate. Valoarea calitativa a produselor pe care B&B Collection le ofera este certificata de normele europene urmarite cu strictete de partenerii nostri externi si garantata de companie, prin serviciile post vanzare de care beneficiaza toti clientii.<br/>Performanta. Venim in intampinarea nevoilor partenerilor nostri cu produse si servicii de calitate. Asiguram o comunicare eficienta si un feed-back constructiv. Suntem receptivi si flexibili in relatiile de afaceri pe care dorim sa le construim. Toate acestea reprezinta pentru noi criterii pentru atingerea performantelor pe care le avem ca obiectiv.<br/>Inovatie. Spiritul de inovatie ne-a permis sa cream pentru clientii nostri patru concepte de magazine specializate in vanzarea asistata a ceasurilor si bijuteriilor, ce urmeaza valorile organizationale definitorii: KULTHO, Splend'or, Be in time si B&B Collection si doua concepte de magazine cosmetice KENDRA beauty cosmetics si KENDRA make up..";
+    document.getElementById("demo").innerHTML=x;
+    x.style.color="red";
+   
+}
